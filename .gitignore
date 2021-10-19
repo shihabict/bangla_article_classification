@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.idea/
+*.pyc
+DATA/
+MODELS/
+REPORTS/
+test.py

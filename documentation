@@ -1,0 +1,11 @@
+Create a folder named DATA in the directory and store the dataset into that folder.
+
+To train the model
+1. Go to main.py
+2. Uncomment the train()  into main function and run the main.py
+
+For Validation
+Uncomment validation() and run the main.py
+
+For checking with random text
+uncomment generate_response() and run the main.py
