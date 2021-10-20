@@ -8,4 +8,4 @@ For Validation
 Uncomment validation() and run the main.py
 
 For checking with random text
-uncomment generate_response() and run the main.py
+uncomment predict_with_random_user_input() and run the main.py
